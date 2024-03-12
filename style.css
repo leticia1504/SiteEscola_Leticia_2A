@@ -8,6 +8,7 @@
     color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
+    padding: 24px 0;
 }
 .cabecalho-lista-item{
     display: inline-block;
