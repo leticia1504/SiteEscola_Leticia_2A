@@ -1,4 +1,5 @@
-header {
+.cabecalho {
     background-color: rgb(101, 71, 184);
     color: rgb(255, 255, 255);
+    display: flex;
 }
