@@ -10,8 +10,13 @@
     justify-content: space-around;
     padding: 24px 0;
 }
+
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+.escola{
+    background-image: linear-gradient(rgb(59, 23, 160),rgb(167, 135, 255));
 }
