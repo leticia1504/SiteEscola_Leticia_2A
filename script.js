@@ -28,13 +28,13 @@ document.addEventListener('DOMContentLoaded', function(){
          tamanhoAtualFonte -= 0.1;
          document.body.style.fontSize = `${tamanhoAtualFonte}rem`
  
-     })
+        })
  
-     alternaContraste.addEventListener('click', function(){
-         document.body.classList.toggle('alto-contraste')
-     })
- 
- 
+        alternaContraste.addEventListener('click', function(){
+            document.body.classList.toggle('alto-contraste')
+        })
+    
+    
  })
  
  ScrollReveal().reveal('#inicio', { delay: 500 });
